@@ -1,6 +1,6 @@
 </p>
 <p align="center">
-  <a href="https://chat.whatsapp.com/JIJplkiYyrFE4dyFGade43">
+  <a href="https://chat.whatsapp.com/LFghMbY8peuKaOJtSNzcEJ">
     <img alt=Support height="350" src="https://i.imgur.com/NlixkpK.jpeg"> 
     </p>
 <h1 align="center">    XOUL-MULTI-DEVICE (BETA)
