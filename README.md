@@ -3,7 +3,7 @@
   <a href="https://chat.whatsapp.com/JIJplkiYyrFE4dyFGade43">
     <img alt=Support height="350" src="https://i.imgur.com/NlixkpK.jpeg"> 
     </p>
-<h1 align="center">    KING-MULTI-DEVICE (BETA)
+<h1 align="center">    XOUL-MULTI-DEVICE (BETA)
 </h1>
 <p align="center"> 
   
