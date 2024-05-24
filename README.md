@@ -3,7 +3,7 @@
   <a href="https://chat.whatsapp.com/LFghMbY8peuKaOJtSNzcEJ">
     <img alt=Support height="350" src="https://i.imgur.com/NlixkpK.jpeg"> 
     </p>
-<h1 align="center">    XOUL-MULTI-DEVICE (BETA)
+<h1 align="center">     REX-MULTI-DEVICE (BETA)
 </h1>
 <p align="center"> 
   
