@@ -3,7 +3,7 @@
   <a href="https://chat.whatsapp.com/LFghMbY8peuKaOJtSNzcEJ">
     <img alt=Support height="350" src="https://i.imgur.com/NlixkpK.jpeg"> 
     </p>
-<h1 align="center">     REX-MULTI-DEVICE (BETA)
+<h1 align="center">      XOULXY-MULTI-DEVICE (BETA)
 </h1>
 <p align="center"> 
   
@@ -12,7 +12,7 @@
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/xoulfff"><img title="Author" src="https://img.shields.io/badge/REX-MULTI_DEVICE-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/xoulfff"><img title="Author" src="https://img.shields.io/badge/XOUL-MULTI_DEVICE-black?style=for-the-badge&logo=github"></a>
 <p/>
 
 
@@ -23,17 +23,17 @@
 
 
    <p align="left">
-  <a href="https://github.com/xoulfff/REX-MD-V1/fork">
-    <img src="https://img.shields.io/github/forks/naveeddogar/KING-MD?label=Fork&style=social">
+  <a href="https://github.com/xoulfff/XOULXY-MD-V1/fork">
+    <img src="https://img.shields.io/github/forks/xoulfff/XOULXY-MD?label=Fork&style=social">
   <p align="left"> 
-  <a href="https://github.com/xoulfff/REX-MD-V1/stargazers">
-    <img src="https://img.shields.io/github/stars/xoulfff/REX-MD-V1?style=social">
+  <a href="https://github.com/xoulfff/XOULXY-MD-V1/stargazers">
+    <img src="https://img.shields.io/github/stars/xoulfff/XOULXY-MD-V1?style=social">
       
   
  
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{naveeddogar}/count.svg" alt="naveeddogar :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{xoulfff}/count.svg" alt="xoulfff :: Visitor's Count" /></p>
 <p align="center">
  <a href="https://chat.whatsapp.com/JIJplkiYyrFE4dyFGade43" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
