@@ -9,7 +9,7 @@
  It is supplied in the hope that it may be useful                                     
  * @project_name : KING-MD                                                                    
  * @author : naveeddogar <https://github.com/naveeddogar>   
- * @description : KING-MD ,A Multi-functional whatsapp bot.       
+ * @description : 𝚾𝚯𝐔𝐋 𝚳𝐃 ,A Multi-functional whatsapp bot.       
  * @version 1.0.1                                                                                             
  ========================================================
  **/
