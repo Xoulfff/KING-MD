@@ -23,11 +23,11 @@
 
 
    <p align="left">
-  <a href="https://github.com/naveeddogar/KING-MD/fork">
+  <a href="https://github.com/xoulfff/REX-MD-V1/fork">
     <img src="https://img.shields.io/github/forks/naveeddogar/KING-MD?label=Fork&style=social">
   <p align="left"> 
-  <a href="https://github.com/naveeddogar/KING-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/naveeddogar/KING-MD?style=social">
+  <a href="https://github.com/xoulfff/REX-MD-V1/stargazers">
+    <img src="https://img.shields.io/github/stars/xoulfff/REX-MD-V1?style=social">
       
   
  
@@ -46,7 +46,7 @@
 
 
 ### 1. FORK THIS REPO
-<a href='https://github.com/naveeddogar/KING-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/xoulfff/REX-MD-V1/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
 ### 2. SCAN QR CODE
 <a href='https://replit.com/@naveeddogar/KING-MD-QR?v=1' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Scan Qr code-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
