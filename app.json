@@ -1,8 +1,8 @@
 { 
-  "name": "KING-MD",
+  "name": "Xoulxy-Md",
   "description": "A Whatsapp md bot built By Naveed to make experience better",
-  "logo": "https://telegra.ph/file/a6b9bbde7feaa92c69c7b.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "King-Two", "KING-MD", "KING","king-Bot","theme bot","multi device","baileys"],
+  "logo": "https://i.imgur.com/NlixkpK.jpeg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "Coulxy-Two", "XOULXY-MD", "XOULXY","xoulxy-Bot","theme bot","multi device","baileys"],
   "success_url": "/",
   "stack": "container",
 "env": {
